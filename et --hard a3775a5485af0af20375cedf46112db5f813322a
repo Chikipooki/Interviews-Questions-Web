@@ -1,0 +1,58 @@
+[33mcommit 67bf69f92602489a866229bf69367ca0b0ac1f95[m[33m ([m[1;36mHEAD -> [m[1;32mDevelop[m[33m, [m[1;31morigin/Develop[m[33m)[m
+Merge: 7dbdfc8 0e31578
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 16:48:33 2024 +0700
+
+    Merge branch 'Develop' of https://github.com/Chikipooki/Interviews-Web into Develop
+
+[33mcommit 7dbdfc8a5bbba397d171bb8dfebbb2c28482ecb7[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 16:28:29 2024 +0700
+
+    init: Migration Db was performed using EF
+
+[33mcommit 0e31578868a2ce8a6ae074d5e2af493c23d8fdff[m[33m ([m[1;31morigin/Release[m[33m, [m[1;31morigin/Master-Jedi[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mRelease[m[33m, [m[1;32mMaster-Jedi[m[33m)[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 16:28:29 2024 +0700
+
+    Migration was performed using EF
+
+[33mcommit 978fc203915eee4e1cad4c50e5bb863c9c7a3e76[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 16:27:00 2024 +0700
+
+    fix: Fix typos in data types
+
+[33mcommit 11888cf6dd716539ef295baa07969ff850c2b121[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 16:13:58 2024 +0700
+
+    docs(.gitignore): Add new exceptions
+
+[33mcommit 33bc863114fef8e8eec73da24c998ff7f612972a[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 14:39:00 2024 +0700
+
+    feat: Add new particiant model
+    
+    The participant model for the database
+
+[33mcommit 7ad301e451d80ca110872fcad644b91ea5f298c9[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sun Mar 17 14:11:44 2024 +0700
+
+    feat: Add new model Qustion
+    
+    Added properties for working with the database
+
+[33mcommit 83b0c43bd29607fdece09d68e16ae08c36964c8f[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sat Mar 16 14:41:02 2024 +0700
+
+    init: Create Web API
+
+[33mcommit e81157938f46a830ecd68d7b1c70f006d2da46ef[m
+Author: Alexey Taradoyna <AltarNatsev@yandex.ru>
+Date:   Sat Mar 16 14:29:21 2024 +0700
+
+    Initial commit
