@@ -35,10 +35,10 @@ namespace InterviewsAPI.Migrations
                         .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn),
                     QnInWords = table.Column<string>(type: "varchar(250)", nullable: false),
                     ImageName = table.Column<string>(type: "varchar(50)", nullable: true),
-                    Option1 = table.Column<string>(type: "varchar(50)", nullable: false),
-                    Option2 = table.Column<string>(type: "varchar(50)", nullable: false),
-                    Option3 = table.Column<string>(type: "varchar(50)", nullable: false),
-                    Option4 = table.Column<string>(type: "varchar(50)", nullable: false),
+                    Option1 = table.Column<string>(type: "varchar(250)", nullable: false),
+                    Option2 = table.Column<string>(type: "varchar(250)", nullable: false),
+                    Option3 = table.Column<string>(type: "varchar(250)", nullable: false),
+                    Option4 = table.Column<string>(type: "varchar(250)", nullable: false),
                     Answer = table.Column<int>(type: "integer", nullable: false)
                 },
                 constraints: table =>
